@@ -1,6 +1,6 @@
 
 # Portfolio 
-This is my portfolio website. The website was modified by an existing template. 
+This is my portfolio website. The website was modified from an existing template. 
 
 
 ## Technologies used 🛠️
